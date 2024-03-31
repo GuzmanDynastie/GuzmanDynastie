@@ -9,8 +9,8 @@
 ```javascript
 const focus = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Python, Java, MySQL],
-  tools: [Django, Bootstrap],
+  code: [HTML, CSS, Python, Java, JavaScript, MySQL, MongoDB],
+  tools: [Django, Bootstrap, Node.js],
 
  challenge: "I am doing the #100DaysOfCode challenge focused on Django and Bootstrap,
             while make a school project with a intelligent System"

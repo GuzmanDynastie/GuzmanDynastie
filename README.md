@@ -11,7 +11,7 @@ const focus = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Python, Java, JavaScript],
   database: [MySQL, MongoDB],
-  tools: [Django, Bootstrap, Node.js],
+  tools: [Django, Bootstrap, Node.js, Watsonx IBM],
 
   challenge: "I am doing the #100DaysOfCode challenge focused on Django and Bootstrap,
             while make a school project with a intelligent System"

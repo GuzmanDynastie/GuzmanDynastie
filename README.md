@@ -10,17 +10,14 @@
 const focus = {
   Pronouns: "he" | "him",
   Plataform: Railway, MongoAtlas,
-  Operatings_systems: Windows, Linux (In_Learning), MacOS,
+  Operatings_systems: Windows, Linux (in Learning), MacOS,
   Languajes: [{
     moderated: Java,
     In_learning: Python, JavaScript
   }],
   DBMS: MySQL, MongoDB,
-  Other utilities: Bootstrap, HTML, CSS, Node.js,
-  Applications: VSCode, NetBeans, Postman, MongoCompass, Workbench, XAMPP,
-
-  challenge: "I am doing the #100DaysOfCode challenge focused on Django and Bootstrap,
-            while make a school project with a intelligent System"
+  Other utilities: Bootstrap, HTML, CSS, Node.js, IBM Watson Assitant,
+  Applications: VSCode, NetBeans, Postman, MongoCompass, Workbench, XAMPP
 }
 ```
 

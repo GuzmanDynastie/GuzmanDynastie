@@ -8,10 +8,16 @@
 
 ```javascript
 const focus = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, Python, Java, JavaScript],
-  database: [MySQL, MongoDB],
-  tools: [Django, Bootstrap, Node.js, Watsonx IBM],
+  Pronouns: "he" | "him",
+  Plataform: "Railway", "MongoAtlas",
+  Operatings_systems: "Windows", "Linux (In learning)", MacOS,
+  Languajes: [{
+    moderated: "Java",
+    In_learning: "Python", "JavaScript"
+  }],
+  DBMS: "MySQL", "MongoDB",
+  Other utilities: "Bootstrap", "HTML", "CSS", "Node.js",
+  Applications: "VSCode", "Netbeans", "Postman", "Mongo Compass", "Workbench", "XAMPP"
 
   challenge: "I am doing the #100DaysOfCode challenge focused on Django and Bootstrap,
             while make a school project with a intelligent System"

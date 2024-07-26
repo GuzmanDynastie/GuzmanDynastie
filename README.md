@@ -12,7 +12,7 @@ const focus = {
   Plataform: Railway, MongoAtlas,
   Operatings_systems: Windows, Linux (in Learning), MacOS,
   Languajes: [{
-    moderated: Java,
+    Moderated: Java,
     In_learning: Python, JavaScript
   }],
   DBMS: MySQL, MongoDB,

@@ -13,7 +13,7 @@ const focus = {
   Operatings_systems: Windows, Linux (in Learning), MacOS,
   Languajes: [{
     Moderated: Java,
-    In_learning: Python, JavaScript
+    In_learning: COBOL, Python, JavaScript
   }],
   DBMS: MySQL, MongoDB,
   Other utilities: Bootstrap, HTML, CSS, Node.js, IBM Watson Assitant,

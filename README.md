@@ -9,15 +9,15 @@
 ```javascript
 const focus = {
   Pronouns: "he" | "him",
-  Plataform: Railway, MongoAtlas,
+  Plataform: Railway, Render, MongoAtlas, pgAdmin4, Google Cloud, IBM Cloud,
   Operatings_systems: Windows, Linux (in Learning), MacOS,
   Languajes: [{
     Moderated: Java,
     In_learning: COBOL, Python, JavaScript
   }],
-  DBMS: MySQL, MongoDB,
-  Other utilities: Bootstrap, HTML, CSS, Node.js, IBM Watson Assitant,
-  Applications: VSCode, NetBeans, Postman, MongoCompass, Workbench, XAMPP
+  DBMS: MySQL, PostgreSQL, MongoDB,
+  Other utilities: Node.js, Express.js, Micro services, Docker, Bootstrap, IBM Watsonx, Handlebars,
+  Applications: VSCode, NetBeans, Postman, Mongo Compass, Workbench, XAMPP, VirtualBox
 }
 ```
 

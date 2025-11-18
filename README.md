@@ -8,6 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,java,py,docker,nodejs,js,html,css,mongodb,mysql,postgres,postman)](https://skillicons.dev)
 
+Una de mis mayores motivaciones es aprender. Asi comence mis inicios de autodidacta en la universidad, viendo tutoriales y leyendo un par de foros al igual que libros.
+
+Desde que descubri AWS Community me encanta asistir a meetings de desarrolladores, eventos y conferencias para adquirir nuevos conocimientos y hacer networking con la gente que comparte los mismos gustos que yo.
+Para mi el mejor lugar de trrabajo es aquel en el que me permitan evolucionar constantemente.
+
 ```javascript
 const focus = {
   Pronouns: "he" | "him",

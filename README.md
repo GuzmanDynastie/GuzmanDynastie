@@ -9,46 +9,14 @@
 ```javascript
 const focus = {
   Pronouns: "he" | "him",
-  Plataform: [
-    "Railway",
-    "Render",
-    "MongoAtlas",
-    "pgAdmin4",
-    "Google Cloud",
-    "IBM Cloud"
-  ],
-  Operatings_systems: [
-    "Windows",
-    "Ubuntu",
-    "MacOS"
-  ],
-  Languajes: {
-    Java,
-    In_learning: ["COBOL", "Python", "JavaScript"]
-  },
-  DBMS: [
-    "MySQL",
-    "PostgreSQL",
-    "MongoDB"
-  ],
-  Other_utilities: [
-    "Node.js",
-    "Express.js",
-    "Micro services",
-    "Docker",
-    "Bootstrap",
-    "IBM Watsonx",
-    "Handlebars"
-  ],
-  Applications: [
-    "VSCode",
-    "NetBeans",
-    "Postman",
-    "Mongo Compass",
-    "Workbench",
-    "XAMPP",
-    "VirtualBox"
-  ]
+  Plataforms & Cloud services: [ Railway, Render, MongoDB Atlas, IBM Cloud ],
+  Operatings_systems: [ Windows, macOS, Linux (Ubuntu) ],
+  Languajes: { Java, currently learning: ["COBOL", "Python", "JavaScript" ] },
+  DBMS: [ MySQL, PostgreSQL, MongoDB ],
+  Databae Tools: [ phpMyAdmin, pgAdmin 4, MongoDB Compass, MySQL Workbench ],
+  Frameworks & Technologies: [ Node.js, Express.js, Microservicios, Bootstrap ],
+  Version Control: [ GitHub ],
+  Other Tools: [ Postman, Virtual Box, IBM Watsonx, AnyDesk ]
 }
 ```
 

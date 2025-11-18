@@ -12,4 +12,5 @@
   </a>
 </p>
 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple&theme=dark&perline=15" alt="My Skills" /></a>
 ![GuzmanDynastie github stats](https://github-readme-stats.vercel.app/api?username=GuzmanDynastie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)

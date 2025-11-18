@@ -6,6 +6,8 @@
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://4kwallpapers.com/images/walls/thumbs_3t/5017.jpg)
 
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,java,py,docker,nodejs,js,html,css,mongodb,mysql,postgres,postman)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,apple,linux,java,py,docker,nodejs,js,html,css,mongodb,mysql,postgres,postman" />

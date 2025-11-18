@@ -8,10 +8,20 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,java,py,docker,nodejs,js,html,css,mongodb,mysql,postgres,postman)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,java,py,docker,nodejs,js,html,css,mongodb,mysql,postgres,postman" />
-  </a>
-</p>
+```javascript
+const focus = {
+  Pronouns: "he" | "him",
+  Plataform: Railway, Render, IBM Cloud,
+  Operatings_systems: Windows, Ubuntu, MacOS,
+  Languajes: [{
+    Java,
+    In_learning: COBOL, Python, JavaScript
+  }],
+  DBMS: MySQL, PostgreSQL, MongoDB,
+  Other utilities: Node.js, Express.js, Micro services, Docker, IBM Watsonx,
+  Applications: Postman, VirtualBox, AnyDesk
+}
+
+```
 
 ![GuzmanDynastie github stats](https://github-readme-stats.vercel.app/api?username=GuzmanDynastie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
